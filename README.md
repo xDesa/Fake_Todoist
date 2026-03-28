@@ -2,7 +2,7 @@
 
 A Copy of Todoist in vanilla js (app work only front-end)
 
-[live demo](https://lv-desa.github.io/Fake_Todoist/) :point_left:
+[live demo](https://xdesa.github.io/Fake_Todoist/) :point_left:
 
 ## Install and run
 
